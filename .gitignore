@@ -1,4 +1,5 @@
 *.acn
+config.php
 *.acr
 *.alg
 *.aux
