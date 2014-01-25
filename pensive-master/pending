@@ -1,0 +1,7 @@
+1. Make bootstrap forms quickly
+2. A naming convention for forms
+3. methods to get and process forms data
+4. processed forms data to database operations (will need orm to be completed)
+5. Logging class and table
+6. Log everything
+7. Minify Everthing for production
